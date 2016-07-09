@@ -485,7 +485,7 @@ $(function() {
           } else if (leftDay == 2) {
             leftDayText = "Day after tomorrow"
           } else {
-            leftDayText = "after" + leftDay + "days";
+            leftDayText = "after " + leftDay + "days";
           }
 
           styleHTML += '#accordion-group' + d_no + '{background-color:  ' + description.background + ';} ';
