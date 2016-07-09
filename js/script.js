@@ -479,13 +479,13 @@ $(function() {
 
           var leftDayText = "";
           if (leftDay == 0) {
-            leftDayText = "今日";
+            leftDayText = "Today";
           } else if (leftDay == 1) {
-            leftDayText = "明日";
+            leftDayText = "Tomorrow";
           } else if (leftDay == 2) {
-            leftDayText = "明後日"
+            leftDayText = "Day after tomorrow"
           } else {
-            leftDayText = leftDay + "日後";
+            leftDayText = leftDay + "after days";
           }
 
           styleHTML += '#accordion-group' + d_no + '{background-color:  ' + description.background + ';} ';
