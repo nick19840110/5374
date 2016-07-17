@@ -129,7 +129,7 @@ func mapToCenterData(mp map[string]*Center) string {
 func calcAreaDays(filename string) {
 
 	r := csvReader(filename)
-	var area []string = []string{"校下・地区,センター,Burnable,燃やさないごみ,資源,あきびん"}
+	var area []string = []string{"校下・地区,センター,燃やすごみ,燃やさないごみ,資源,あきびん"}
 	mp := map[string]*Center{}
 
 	// 1行目はラベルなので飛ばす
