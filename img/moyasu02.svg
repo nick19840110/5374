@@ -13,16 +13,16 @@
    id="レイヤー_1"
    x="0px"
    y="0px"
-   width="71px"
-   height="22px"
-   viewBox="0 0 71 22"
+   width="103.00415"
+   height="26.882324"
+   viewBox="0 0 103.00415 26.882324"
    enable-background="new 0 0 71 22"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
    sodipodi:docname="moyasu02.svg"><metadata
    id="metadata13"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs11" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -32,17 +32,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="961"
-   inkscape:window-height="539"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
    id="namedview9"
    showgrid="false"
    inkscape:zoom="3.4929577"
-   inkscape:cx="30.165825"
-   inkscape:cy="7.0051658"
-   inkscape:window-x="78"
-   inkscape:window-y="78"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="レイヤー_1" />
+   inkscape:cx="50.67372"
+   inkscape:cy="9.3167511"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="レイヤー_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 
 
 
@@ -57,14 +61,15 @@
    inkscape:connector-curvature="0" />
 <text
    xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="-19.467743"
-   y="18.850805"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="-1.2487793"
+   y="21.135254"
    id="text3336"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
-     x="-19.467743"
-     y="18.850805"
+     x="-1.2487793"
+     y="21.135254"
      id="tspan3340"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Organik</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Organik</tspan></text>
+
 </svg>
