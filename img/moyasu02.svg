@@ -13,9 +13,9 @@
    id="レイヤー_1"
    x="0px"
    y="0px"
-   width="103.00415"
-   height="26.882324"
-   viewBox="0 0 103.00415 26.882324"
+   width="138.06152"
+   height="47.522175"
+   viewBox="0 0 138.06152 47.522174"
    enable-background="new 0 0 71 22"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
@@ -37,8 +37,8 @@
    id="namedview9"
    showgrid="false"
    inkscape:zoom="3.4929577"
-   inkscape:cx="50.67372"
-   inkscape:cy="9.3167511"
+   inkscape:cx="70.390185"
+   inkscape:cy="12.492893"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -46,7 +46,8 @@
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
-   fit-margin-bottom="0" />
+   fit-margin-bottom="0"
+   inkscape:snap-text-baseline="true" />
 
 
 
@@ -61,15 +62,21 @@
    inkscape:connector-curvature="0" />
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="-1.2487793"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+   x="69.030762"
    y="21.135254"
    id="text3336"
    sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
-     x="-1.2487793"
+     x="69.030762"
      y="21.135254"
      id="tspan3340"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Organik</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;">Organik</tspan><tspan
+     sodipodi:role="line"
+     x="69.030762"
+     y="44.467979"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;"
+     id="tspan3336">(depat membusuk)</tspan></text>
+
 
 </svg>
