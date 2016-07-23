@@ -99,7 +99,7 @@ var TrashModel = function(_lable, _cell, remarks) {
     return this.getRemark() + this.dayLabel + " " + result_text;
   }
 
-  var day_enum = ["日", "Mon", "火", "水", "木", "金", "土"];
+  var day_enum = ["日", "M", "火", "水", "木", "金", "土"];
 
   function getDayIndex(str) {
     for (var i = 0; i < day_enum.length; i++) {
